@@ -14,4 +14,6 @@ The files are organised into `src/` which consists of the the main project files
 
 ## Running Code Using Eclipse
 
-This project is built using Maven. In order to run this code using Eclipise, on Eclipse, go to `file > `
+This project is built using Maven. In order to run this code using Eclipise, on Eclipse, go to `file > import > Maven > Existing maven Projects`
+
+This should make all packages load and work.
